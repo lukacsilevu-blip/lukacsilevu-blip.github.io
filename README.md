@@ -25,7 +25,10 @@
 	<a href="#" onclick="showPage(14)">irányitástechnika</a>
 </nav>
 
-<section id="page1" class="active"><h1>1. oldal</h1></section>
+<section id="page1" class="active"><h1><header>
+        <h1>Lukácsi Levente</h1>
+        <p>Ipari informatikus technikus szakor 13.B</p>
+    </header></h1></section>
 <section id="page2"><h1><iframe src="https://dufoffice365-my.sharepoint.com/personal/72559457133_tanulo_bankisuli_hu/_layouts/15/Doc.aspx?sourcedoc={1818de0f-6f13-45ca-997e-28cd1ac03c8b}&amp;action=embedview" width="680px" height="460px" frameborder="0" title="PowerPoint Viewer">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></h1></section>
 <section id="page3"><h1><iframe src="https://dufoffice365-my.sharepoint.com/personal/72559457133_tanulo_bankisuli_hu/_layouts/15/Doc.aspx?sourcedoc={cd7fa646-bae5-47d5-a854-9f636db98310}&amp;action=embedview" width="680px" height="460px" frameborder="0" title="PowerPoint Viewer">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></h1></section>
 <section id="page4"><h1><iframe src="https://dufoffice365-my.sharepoint.com/personal/72559457133_tanulo_bankisuli_hu/_layouts/15/Doc.aspx?sourcedoc={9a1dd116-9d63-4ac4-a01e-d58ecf96b743}&amp;action=embedview" width="680px" height="480px" frameborder="0" title="PowerPoint Viewer">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe></h1></section>
