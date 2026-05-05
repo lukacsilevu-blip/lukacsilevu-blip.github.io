@@ -34,7 +34,7 @@
 			Sikeres vizsgáim után remélhetöleg a Dunaújvársi Egyetem mérnök informatikus szakán tanulnék tovább. <br>
 			Céllom hogy az informatika világába jobban beleásan magam és késöbb ezzel kapcsolatos munkám legyen. <br>
 			Ennek a továbi megtekintésére egy bejelentkezett microsoft account szükséges </p> </section>
-<section id="page2"><h1><embed src="Meresi-jkv.pdf" type="application/pdf" width="100%" height="600px" /></h1></section>
+<section id="page2"><h1><embed src="[Meresi-jkv.pdf](https://github.com/lukacsilevu-blip/lukacsilevu-blip.github.io/blob/main/Meresi%20jkv.pdf)" type="application/pdf" width="100%" height="600px" /></h1></section>
 <section id="page3"><h1><embed src="webes-szerver-1.pdf" type="application/pdf" width="100%" height="600px" /></h1></section>
 <section id="page4"><h1><embed src="csharp_project_portfolio.pdf" type="application/pdf" width="100%" height="600px" /></h1></section>
 <section id="page5"><h1><embed src="digitális-áramkörök-project-1.pdf" type="application/pdf" width="100%" height="600px" /></h1></section>
